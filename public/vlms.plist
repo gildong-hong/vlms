@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>[다운받을 수 있는 .ipa 확장자 파일 URL]</string>
+                    <string>https://stoic-aryabhata-f7ceee.netlify.app/Runner.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
